@@ -152,6 +152,42 @@
 </table>
 
 
+<p align="center">⚙️ Development environment </p>
+<!-- TAKE IT FROM: https://github.com/aaronedev/ -->
+
+> I grew up with Windows and it holds a special place in my heart. It’s my go-to operating system for development, where I make extensive use of the Windows Subsystem for Linux (WSL) and the Windows Terminal. I also use PowerShell, which I’ve customized with my own configurations built from and modules scratch, to create a highly efficient and personalized terminal environment.
+
+<div class="table-devenvironment">
+  <table style="font-size: 11px">
+  <tr>
+  <td valign="top" width="50%">
+
+#### 🖥️ Windows PowerUser
+
+Accelerating my workflow and productivity on Windows with the following tools and configurations:
+
+  ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)  
+  ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+  ![VirtualBox](https://img.shields.io/badge/VirtualBox-293e70?style=flat&logo=virtualbox&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-f76833?style=flat&logo=postman&logoColor=white)
+  </td>
+  <td valign="top" width="50%">
+
+#### 🐧 Linux Enthusiast
+
+I love working with Linux, and I'm always exploring new things in the vast open-source world.
+
+  ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+  ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)
+  ![Fedora](https://img.shields.io/badge/Fedora-293e70?style=flat&logo=fedora&logoColor=white)
+  </td>
+  </tr>
+  </table>
+</div>
+
 
 <p>
   Still in progress. . .
