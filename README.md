@@ -27,7 +27,7 @@
     challenging role to develop cloud and software solutions.  
   </p>
 
-<h3>SKILLS & TOOLS 🛠️</h3>
+<h3 align="center">SKILLS & TOOLS 🛠️</h3>
 <!--  TODO: PONERLOS EN UNA TABLA CON TODOS LOS DEMAS -->
 <!-- inspiracion: https://github.com/itsZed0/itsZed0/blob/main/README.md?plain=1 -->
 <!-- ICONOS: https://devicon.dev/ -->
