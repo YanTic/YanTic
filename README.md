@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Julián Acosta Taborda</h1>
-<h3 align="center">Systems & Computer Engineering Student</h3>
+<h3 align="center">Systems & Computer Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/acosjulioo/" target="blank">
@@ -18,7 +18,7 @@
 <br>
 
 <!--  <p><img align="right" src="https://media1.tenor.com/m/PBcGjKppnacAAAAd/pixel-art.gif" width="400" height="560" alt="" /></p> -->
-<h3 align="center">WHOAMI 👨‍💻</h3>
+<h3 align="center">👨‍💻 WHOAMI</h3>
   <p>
     I'm a Systems and Computer Engineering Student with a strong passion for cloud computing and a solid background in
     software development, microservices, APIs and Databases. Proficient in Java and Golang, with hands-on
@@ -27,11 +27,12 @@
     challenging role to develop cloud and software solutions.  
   </p>
 
-<h3 align="center">SKILLS & TOOLS 🛠️</h3>
+<h3 align="center">🛠️ SKILLS & TOOLS</h3>
 <!--  TODO: PONERLOS EN UNA TABLA CON TODOS LOS DEMAS -->
 <!-- inspiracion: https://github.com/itsZed0/itsZed0/blob/main/README.md?plain=1 -->
 <!-- ICONOS: https://devicon.dev/ -->
 
+<div align="center">
 <table style="width: 100%; background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <tr>
     <td style="vertical-align: top;">
@@ -150,9 +151,9 @@
     </td>
   </tr>
 </table>
+</div>
 
-
-<p align="center">⚙️ Development environment </p>
+<h3 align="center">⚙️ DEVELOPMENT ENVIRONMENT</h3>
 <!-- TAKE IT FROM: https://github.com/aaronedev/ -->
 
 > I grew up with Windows and it holds a special place in my heart. It’s my go-to operating system for development, where I make extensive use of the Windows Subsystem for Linux (WSL) and the Windows Terminal. I also use PowerShell, which I’ve customized with my own configurations built from and modules scratch, to create a highly efficient and personalized terminal environment.
