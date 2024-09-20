@@ -27,12 +27,10 @@
     challenging role to develop cloud and software solutions.  
   </p>
 
-<h3 align="center">🛠️ SKILLS & TOOLS</h3>
+<h3 align="center">🛠️ LANGUAGES & TOOLS</h3>
 <!--  TODO: PONERLOS EN UNA TABLA CON TODOS LOS DEMAS -->
 <!-- inspiracion: https://github.com/itsZed0/itsZed0/blob/main/README.md?plain=1 -->
 <!-- ICONOS: https://devicon.dev/ -->
-
-
 
 <div align="center">
 <table style="width: 100%; background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -170,12 +168,13 @@ Windows is my default & favorite OS. It’s my OS for development, where I use t
 Default OS for coding using theses tools and configurations:
 
   ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)  
+  ![WSL](https://img.shields.io/badge/-WSL-0D1117?style=flat&logo=windows-subsystem-for-linux&logoColor=FCC624)
   ![VSCode](https://img.shields.io/badge/VSCode-22a8e8?style=flat&logoColor=white)
   ![IntelliJ](https://img.shields.io/badge/IntelliJ-000?style=flat&logo=intellijidea&logoColor=white)
   ![VirtualBox](https://img.shields.io/badge/VirtualBox-293e70?style=flat&logo=virtualbox&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-f76833?style=flat&logo=postman&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)  
   
   </td>
   <td valign="top" width="50%">
