@@ -32,6 +32,8 @@
 <!-- inspiracion: https://github.com/itsZed0/itsZed0/blob/main/README.md?plain=1 -->
 <!-- ICONOS: https://devicon.dev/ -->
 
+
+
 <div align="center">
 <table style="width: 100%; background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <tr>
@@ -156,7 +158,7 @@
 <h3 align="center">⚙️ DEVELOPMENT ENVIRONMENT</h3>
 <!-- TAKE IT FROM: https://github.com/aaronedev/ -->
 
-> I grew up with Windows and it holds a special place in my heart. It’s my go-to operating system for development, where I make extensive use of the Windows Subsystem for Linux (WSL) and the Windows Terminal. I also use PowerShell, which I’ve customized with my own configurations built from and modules scratch, to create a highly efficient and personalized terminal environment.
+Windows is my default & favorite OS. It’s my OS for development, where I use the Windows Subsystem for Linux (WSL) and the Windows Terminal and PowerShell. I use different distributions of Linux through VirtualBox, where I deploy servers for web applications.
 
 <div class="table-devenvironment">
   <table style="font-size: 11px">
@@ -165,20 +167,22 @@
 
 #### 🖥️ Windows PowerUser
 
-Accelerating my workflow and productivity on Windows with the following tools and configurations:
+Default OS for coding using theses tools and configurations:
 
   ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
   ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)  
-  ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+  ![VSCode](https://img.shields.io/badge/VSCode-22a8e8?style=flat&logoColor=white)
+  ![IntelliJ](https://img.shields.io/badge/IntelliJ-000?style=flat&logo=intellijidea&logoColor=white)
   ![VirtualBox](https://img.shields.io/badge/VirtualBox-293e70?style=flat&logo=virtualbox&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-f76833?style=flat&logo=postman&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  
   </td>
   <td valign="top" width="50%">
 
 #### 🐧 Linux Enthusiast
 
-I love working with Linux, and I'm always exploring new things in the vast open-source world.
+I love working with Linux. Always exploring new things in the open-source world.
 
   ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
