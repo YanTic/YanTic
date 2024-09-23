@@ -184,6 +184,7 @@ Default OS for coding using theses tools and configurations:
 I love working with Linux. Always exploring new things in the open-source world.
 
   ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+  ![Bash](https://img.shields.io/badge/Bash-black?style=flat&logo=gnubash&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
   ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)
   ![Fedora](https://img.shields.io/badge/Fedora-293e70?style=flat&logo=fedora&logoColor=white)
