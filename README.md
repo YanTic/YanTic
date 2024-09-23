@@ -20,7 +20,7 @@
 <!--  <p><img align="right" src="https://media1.tenor.com/m/PBcGjKppnacAAAAd/pixel-art.gif" width="400" height="560" alt="" /></p> -->
 <h3 align="center">👨‍💻 WHOAMI</h3>
   <p>
-    I'm a Systems and Computer Engineering Student with a strong passion for cloud computing and a solid background in
+    I'm a Systems and Computer Engineer with a strong passion for cloud computing and a solid background in
     software development, microservices, APIs and Databases. Proficient in Java and Golang, with hands-on
     experience in technologies such as Spring Boot, Angular, Docker, AWS. With excellent problem-solving,
     adaptability and collaboration skills. English proficiency at B2 level. Seeking to apply technical expertise in a
@@ -35,43 +35,6 @@
 <div align="center">
 <table style="width: 100%; background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <tr>
-    <td style="vertical-align: top;">
-      <table style="background-color: black; color: white; border: none;">
-        <thead>
-          <tr>
-            <th colspan="6" align="center" style="color: white;">Frontend</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td align="center" style="border: none;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="50" height="50"/>
-              <br>Angular
-            </td>
-            <td align="center" style="border: none;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>
-              <br>Bootstrap
-            </td>
-            <td align="center" style="border: none;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
-              <br>JavaScript
-            </td>
-            <td align="center" style="border: none;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="50" height="50"/>
-              <br>jQuery
-            </td>
-            <td align="center" style="border: none;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="50" height="50"/>
-              <br>HTML
-            </td>
-            <td align="center" style="border: none;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="50" height="50"/>
-              <br>CSS
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </td>    
     <td style="vertical-align: top;">
       <table style="background-color: black; color: white; border: none;">
         <thead>
@@ -97,6 +60,39 @@
         </tbody>
       </table>
     </td>
+    <td style="vertical-align: top;">
+      <table style="background-color: black; color: white; border: none;">
+        <thead>
+          <tr>
+            <th colspan="6" align="center" style="color: white;">Frontend</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="center" style="border: none;">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="50" height="50"/>
+              <br>Angular
+            </td>
+            <td align="center" style="border: none;">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>
+              <br>Bootstrap
+            </td>
+            <td align="center" style="border: none;">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
+              <br>JavaScript
+            </td>
+            <td align="center" style="border: none;">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="50" height="50"/>
+              <br>HTML
+            </td>
+            <td align="center" style="border: none;">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="50" height="50"/>
+              <br>CSS
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </td> 
   </tr>
 </table>
 
@@ -156,14 +152,14 @@
 <h3 align="center">⚙️ DEVELOPMENT ENVIRONMENT</h3>
 <!-- TAKE IT FROM: https://github.com/aaronedev/ -->
 
-Windows is my default & favorite OS. It’s my OS for development, where I use the Windows Subsystem for Linux (WSL) and the Windows Terminal and PowerShell. I use different distributions of Linux through VirtualBox, where I deploy servers for web applications.
+My OS for development is Windows, where I use the Windows Subsystem for Linux (WSL), Windows Terminal and PowerShell. I use different distributions of Linux through VirtualBox, where I deploy servers for web applications.
 
 <div class="table-devenvironment">
   <table style="font-size: 11px">
   <tr>
   <td valign="top" width="50%">
 
-#### 🖥️ Windows PowerUser
+#### 🖥️ Windows
 
 Default OS for coding using theses tools and configurations:
 
@@ -179,7 +175,7 @@ Default OS for coding using theses tools and configurations:
   </td>
   <td valign="top" width="50%">
 
-#### 🐧 Linux Enthusiast
+#### 🐧 Linux
 
 I love working with Linux. Always exploring new things in the open-source world.
 
@@ -192,8 +188,3 @@ I love working with Linux. Always exploring new things in the open-source world.
   </tr>
   </table>
 </div>
-
-
-<p>
-  Still in progress. . .
-</p>
