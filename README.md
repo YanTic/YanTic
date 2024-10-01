@@ -45,16 +45,16 @@
         <tbody>
           <tr>
             <td align="center" style="border: none;">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="Golang" alt="Golang" width="50" height="50"/>
-              <br>Golang
-            </td>
-            <td align="center" style="border: none;">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
               <br>Java
             </td>
             <td align="center" style="border: none;">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" height="50" alt="Spring"/>
               <br>Spring
+            </td>
+            <td align="center" style="border: none;">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="Golang" alt="Golang" width="50" height="50"/>
+              <br>Golang
             </td>
           </tr>
         </tbody>
