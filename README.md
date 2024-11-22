@@ -56,6 +56,10 @@
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="Golang" alt="Golang" width="50" height="50"/>
               <br>Golang
             </td>
+            <td align="center" style="border: none;">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="50" height="50"/>
+              <br>NestJS
+            </td>                      
           </tr>
         </tbody>
       </table>
@@ -119,6 +123,10 @@
             <td align="center" style="border: none;">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/>
               <br>Oracle
+            </td>
+            <td align="center" style="border: none;">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+              <br>MongoDB
             </td>
           </tr>
         </tbody>
