@@ -9,10 +9,6 @@
   <a href="mailto:acostajuliant@gmail.com" target="blank">
   	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="LinkedIn" alt="LinkedIn"/>
   </a>
-
-  <a href="https://www.instagram.com/acosjulioo/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" alt="Instagram"/>    
-  </a>  
 </p>
 
 <br>
@@ -21,10 +17,10 @@
 <h3 align="center">👨‍💻 WHOAMI</h3>
   <p>
     I'm a Systems and Computer Engineer with a strong passion for cloud computing and a solid background in
-    software development, microservices, APIs and Databases. Proficient in Java and Golang, with hands-on
-    experience in technologies such as Spring Boot, Angular, Docker, AWS. With excellent problem-solving,
+    software development, microservices, APIs and Databases. Proficient in Java and Python, with hands-on
+    experience in technologies such as Spring, Reactor, Pyhton, AWS. With excellent problem-solving,
     adaptability and collaboration skills. English proficiency at B2 level. Seeking to apply technical expertise in a
-    challenging role to develop cloud and software solutions.  
+    challenging role to develop cloud and software solutions.
   </p>
 
 <h3 align="center">🛠️ LANGUAGES & TOOLS</h3>
@@ -51,6 +47,10 @@
             <td align="center" style="border: none;">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" height="50" alt="Spring"/>
               <br>Spring
+            </td>
+            <td align="center" style="border: none;">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Spring"/>
+              <br>Python
             </td>
             <td align="center" style="border: none;">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="Golang" alt="Golang" width="50" height="50"/>
